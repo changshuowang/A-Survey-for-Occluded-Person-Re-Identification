@@ -66,8 +66,8 @@ Here, we list the results of four occluded Occluded PersonRe-Idenfication datase
 
 ### 
 
-
-|           Method           |    Rank-1   |     mAP     |   Rank-1   |     mAP     |    Ref. from    |  Published  | Year |
+|           Method           |  Occluded-  |     Duke    |  Occluded- |     REID    |    Ref. from    |  Published  | Year |
+|                            |    Rank-1   |     mAP     |   Rank-1   |     mAP     |                 |             |      |
 | :------------------------: | :---------: | :---------: | :--------: | :---------: | :-------------: | :---------: | ---- |
 |        **CBDB-Net**        |    50.09    |     38.9    |            |             |                 |   TCSVT     | 2021 |
 
