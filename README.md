@@ -64,28 +64,35 @@ Speed is related to the hardware spec (e.g. CPU, GPU, RAM, etc), so it is hard t
 
 Here, we list the results of four occluded Occluded PersonRe-Idenfication datasets and two holistic Person Re-Identification datasets usually used as follows.
 
-### NYUDv2
+### 
 
-|           Method           |   PixAcc    |    mAcc     |    mIoU    |     f.w.IOU      | Input |    Ref. from    |  Published  | Year |
-| :------------------------: | :---------: | :---------: | :--------: | :--------------: | :---: | :-------------: | :---------: | ---- |
-|          **POR**           |    59.1     |    28.4     |    29.1    |                  | RGBD  |                 |    CVPR     | 2013 |
+|           Method           |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |    Ref. from    |  Published  |   Year  |
+| :------------------------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---- ----: | :-------: | :-------------: | :---------: | :-----: |
+|          **CBDB-Net**      |    50.09    |    38.9   |      -      |     -     |    66.7     |    78.3   |    68.4     |    81.5   |    94.4     |     85    |    87.7     |    74.3   |                 |    TCSVT    |   2021  |
+|        **OCNet**           |             |           |             |           |             |           |             |           |             |           |             |           |                 |             |         |
+|        **AACN**            |             |           |             |           |             |           |             |           |             |           |             |           |                 |             |         |
 
 
 ###
 
 
-|           Method           |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |                 |  Published  |   Year  |
-| :------------------------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :-----==--: | :-------: | :-------------: | :---------: | :-----: |
-|        **CBDB-Net**        |    50.09    |    38.9   |      -      |     -     |    66.7     |    78.3   |    68.4     |    81.5   |    94.4     |     85    |    87.7     |    74.3   |                 |    TCSVT    |   2021  |
-|        **OCNet**           |             |           |             |           |             |           |             |           |             |           |             |           |                 |             |         |
-|        **AACN**            |             |           |             |           |             |           |             |           |             |           |             |           |                 |             |         |
 
 
 
 ## Paper list
 
-- **[CBDB-Net]** H. Tan, et al. (2021). Incomplete Descriptor Mining with Elastic Loss for Person Re-Identification. EEE Transactions on Circuits and Systems for Video Technology 32 (1) (2021) 160–171. [[Paper]]
+
+###2023
+
+
+
+###2022
 - **[DPM]** L. Tan, et al. (2022). Dynamic Prototype Mask for Occluded Person Re-Identification. in: Proceedings of the 30th ACM International Conference on Multimedia, 2022, pp. 531–540. [[Paper]](https://github.com/stone96123/DPM) [Code]
+
+
+###2021
+- **[CBDB-Net]** H. Tan, et al. (2021). Incomplete Descriptor Mining with Elastic Loss for Person Re-Identification. EEE Transactions on Circuits and Systems for Video Technology 32 (1) (2021) 160–171. [[Paper]]
+
 
 
 
