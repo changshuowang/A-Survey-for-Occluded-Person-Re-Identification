@@ -51,7 +51,7 @@ We also list two holistic Person Re-Identification as follows.
 
 The papers related to metrics used mainly in RGBD semantic segmentation are as follows.
 
-- **[CMC()Cumulative Matching Characteristic]**  CMC curves are based on the principle of ranking the similarity between the query image and the image library, and the higher the top image, the higher the similarity with the query image.
+- **[CMC(Cumulative Matching Characteristic)]**  CMC curves are based on the principle of ranking the similarity between the query image and the image library, and the higher the top image, the higher the similarity with the query image.
 - **[mAP(mean Average Precision)]**  mAP better reflects the degree to which all correct target pictures are at the top of the sorted list.
 
 
@@ -88,11 +88,11 @@ Here, we list the results of four occluded Occluded PersonRe-Idenfication datase
 
 
 **2022**
-- **[DPM]** L. Tan, et al. (2022). Dynamic Prototype Mask for Occluded Person Re-Identification. in: Proceedings of the 30th ACM International Conference on Multimedia, 2022, pp. 531–540. [[Paper]](https://github.com/stone96123/DPM) [Code]
+- **[DPM]** L. Tan, et al. (2022). Dynamic Prototype Mask for Occluded Person Re-Identification. in: Proceedings of the 30th ACM International Conference on Multimedia, 2022, pp. 531–540. [[Paper]](https://arxiv.org/abs/2207.09046) [[Code]](https://github.com/stone96123/DPM) 
 
 
 **2021**
-- **[CBDB-Net]** H. Tan, et al. (2021). Incomplete Descriptor Mining with Elastic Loss for Person Re-Identification. EEE Transactions on Circuits and Systems for Video Technology 32 (1) (2021) 160–171. [[Paper]]
+- **[CBDB-Net]** H. Tan, et al. (2021). Incomplete Descriptor Mining with Elastic Loss for Person Re-Identification. EEE Transactions on Circuits and Systems for Video Technology 32 (1) (2021) 160–171. [[Paper]](https://arxiv.org/abs/2008.04010)
 
 
 
