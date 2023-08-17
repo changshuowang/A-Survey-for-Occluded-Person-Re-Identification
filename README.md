@@ -64,6 +64,15 @@ Speed is related to the hardware spec (e.g. CPU, GPU, RAM, etc), so it is hard t
 
 Here, we list the results of four occluded Occluded PersonRe-Idenfication datasets and two holistic Person Re-Identification datasets usually used as follows.
 
+### NYUDv2
+
+|           Method           |   PixAcc    |    mAcc     |    mIoU    |     f.w.IOU      | Input |    Ref. from    |  Published  | Year |
+| :------------------------: | :---------: | :---------: | :--------: | :--------------: | :---: | :-------------: | :---------: | ---- |
+|          **POR**           |    59.1     |    28.4     |    29.1    |                  | RGBD  |                 |    CVPR     | 2013 |
+
+
+###
+
 
 |           Method           |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |                 |  Published  |   Year  |
 | :------------------------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :-----==--: | :-------: | :-------------: | :---------: | :-----: |
