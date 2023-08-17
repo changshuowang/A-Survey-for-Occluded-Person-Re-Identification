@@ -15,10 +15,10 @@ A paper list of Occluded Person Re-Identification.
 
 ## Table of Contents
 
-- [Datasets]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md))#Datasets)
-- [Metrics]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md))#Metrics)
-- [Performance tables](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md))#Performance-tables)
-- [Paper list](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md))#paper-list)
+- [Datasets]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Datasets)
+- [Metrics]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Metrics)
+- [Performance tables](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Performance-tables)
+- [Paper list](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#paper-list)
 
 
 ##
@@ -64,8 +64,8 @@ Speed is related to the hardware spec (e.g. CPU, GPU, RAM, etc), so it is hard t
 
 Here, we list the results of four occluded Occluded PersonRe-Idenfication datasets and two holistic Person Re-Identification datasets usually used as follows.
 
-|           Method           |        Occluded-Duke    |        Occluded-REID    |        Partial-ReID     |        Partial-iLIDS    |        Market-1501      |       DukeMTMC-reID     |    Ref. from    |  Published  |   Year  |
-|                            |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |                 |             |         |
+
+|           Method           |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |   Rank-1    |    mAP    |                 |  Published  |   Year  |
 | :------------------------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :---------: | :-------: | :-----==--: | :-------: | :-------------: | :---------: | :-----: |
 |        **CBDB-Net**        |    50.09    |    38.9   |      -      |     -     |    66.7     |    78.3   |    68.4     |    81.5   |    94.4     |     85    |    87.7     |    74.3   |                 |    TCSVT    |   2021  |
 |        **OCNet**           |             |           |             |           |             |           |             |           |             |           |             |           |                 |             |         |
