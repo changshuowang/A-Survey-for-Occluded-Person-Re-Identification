@@ -15,10 +15,10 @@ A paper list of Occluded Person Re-Identification.
 
 ## Table of Contents
 
-- [Datasets]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Datasets)
-- [Metrics]([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Metrics)
-- [Performance tables](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Performance-tables)
-- [Paper list](([https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/edit/master/README.md](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#paper-list)
+- [Datasets](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Datasets)
+- [Metrics](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Metrics)
+- [Performance tables](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#Performance-tables)
+- [Paper list](https://github.com/changshuowang/A-Survey-for-Occluded-Person-Re-Identification/blob/master/README.md#paper-list)
 
 
 ##
