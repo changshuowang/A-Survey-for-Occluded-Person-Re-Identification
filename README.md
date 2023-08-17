@@ -83,15 +83,15 @@ Here, we list the results of four occluded Occluded PersonRe-Idenfication datase
 ## Paper list
 
 
-###2023
+**2023**
 
 
 
-###2022
+**2022**
 - **[DPM]** L. Tan, et al. (2022). Dynamic Prototype Mask for Occluded Person Re-Identification. in: Proceedings of the 30th ACM International Conference on Multimedia, 2022, pp. 531–540. [[Paper]](https://github.com/stone96123/DPM) [Code]
 
 
-###2021
+**2021**
 - **[CBDB-Net]** H. Tan, et al. (2021). Incomplete Descriptor Mining with Elastic Loss for Person Re-Identification. EEE Transactions on Circuits and Systems for Video Technology 32 (1) (2021) 160–171. [[Paper]]
 
 
