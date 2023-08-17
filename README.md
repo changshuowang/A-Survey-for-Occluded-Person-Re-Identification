@@ -51,8 +51,8 @@ We also list two holistic Person Re-Identification as follows.
 
 The papers related to metrics used mainly in RGBD semantic segmentation are as follows.
 
-- **[CMC(Cumulative Matching Characteristic)]**  CMC curves are based on the principle of ranking the similarity between the query image and the image library, and the higher the top image, the higher the similarity with the query image.
-- **[mAP(mean Average Precision)]**  mAP better reflects the degree to which all correct target pictures are at the top of the sorted list.
+- **CMC(Cumulative Matching Characteristic)**  CMC curves are based on the principle of ranking the similarity between the query image and the image library, and the higher the top image, the higher the similarity with the query image.
+- **mAP(mean Average Precision)**  mAP better reflects the degree to which all correct target pictures are at the top of the sorted list.
 
 
 
